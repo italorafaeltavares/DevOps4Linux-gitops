@@ -1,6 +1,7 @@
+# Repositório criado a parti do Fork feitto  do repositorio (https://github.com/4linux/DevOpsLab-HelloWorld.git) da 4Linux onde realizei com exito a atividade proposta do treinamento. 
+
 # Trilha DevOps da 4Linux
 
--- Altere a Flag abaixo com sua URL do seu usuário do Github -->
 
 ![Pipeline Status](https://github.com/italorafaeltavares/gitops/actions/workflows/pipeline.yml/badge.svg) 
 
