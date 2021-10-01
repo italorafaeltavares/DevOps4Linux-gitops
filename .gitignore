@@ -1,0 +1,7 @@
+# Ignora todos os arquivos com extensão 
+*.tfvars
+*.tfstate
+*.terraform.lock.hcl
+
+# Ignora uma pasta
+.terraform 
